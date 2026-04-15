@@ -1,0 +1,25 @@
+{
+  "name": "beecrowd-typescript",
+  "version": "1.0.0",
+  "description": "Soluções dos problemas do beecrowd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabriellySS/beecrowd-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabriellySS/beecrowd-typescript/issues"
+  },
+  "homepage": "https://github.com/GabriellySS/beecrowd-typescript#readme",
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^6.0.2"
+  }
+}

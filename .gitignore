@@ -1,0 +1,12 @@
+# Dependências
+node_modules/
+
+# Arquivo de teste local
+stdin.txt
+
+# Arquivos compilados do JS (caso você use o comando tsc)
+*.js
+
+# Configurações de IDE
+.vscode/
+.DS_Store
