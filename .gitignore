@@ -6,6 +6,7 @@ stdin.txt
 
 # Arquivos compilados do JS (caso você use o comando tsc)
 *.js
+/dist
 
 # Configurações de IDE
 .vscode/
