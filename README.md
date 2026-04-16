@@ -54,13 +54,10 @@ import * as fs from "fs";
 const input = fs.readFileSync(0, "utf8");
 const lines = input.split(/\r?\n/);
 
-function main() {
-    // Exemplo de leitura:
-    // const A = parseInt(lines.shift()!);
-    // Sua lógica aqui
-}
+// Exemplo de leitura:
+// const A = parseInt(lines.shift()!);
+// Sua lógica aqui
 
-main();
 ```
 
 ## 📊 Progresso
