@@ -57,15 +57,14 @@ const lines = input.split(/\r?\n/);
 // Exemplo de leitura:
 // const A = parseInt(lines.shift()!);
 // Sua lógica aqui
-
 ```
 
 ## 📊 Progresso
 
-| Faixa de IDs | Resolvidos |
-| :----------- | ---------: |
-| 1000 - 1099  | 🟢 8 / 100 |
-| 1100 - 1199  | ⚪ 0 / 100 |
+| Faixa de IDs |  Resolvidos |
+| :----------- | ----------: |
+| 1000 - 1099  | 🟢 10 / 100 |
+| 1100 - 1199  |  ⚪ 0 / 100 |
 
 ## 🎨 Sobre mim
 
