@@ -63,7 +63,7 @@ const lines = input.split(/\r?\n/);
 
 | Faixa de IDs |  Resolvidos |
 | :----------- | ----------: |
-| 1000 - 1099  | 🟢 19 / 100 |
+| 1000 - 1099  | 🟢 20 / 100 |
 | 1100 - 1199  |  ⚪ 0 / 100 |
 
 ## 🎨 Sobre mim
